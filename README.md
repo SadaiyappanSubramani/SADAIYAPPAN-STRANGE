@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SADAIYAPPAN-STRANGE/](https://github.com/SADAIYAPPAN-STRANGE/)
 
-- 💬 Ask me about **sql,html and C**
+- 💬 Ask me about **PYTHON,HTML,CSS,JAVA SCRIPT AND MysQl**
 
 - 📫 How to reach me **sadaiyappancse@gmail.com**
 
