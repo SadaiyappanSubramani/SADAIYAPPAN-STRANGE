@@ -15,8 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/sadaiyappan (santhosh) subramani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadaiyappan (santhosh) subramani" height="30" width="40" /></a>
+<a href="https://fb.com/sadaiyappan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadaiyappan" height="30" width="40" /></a>
 <a href="https://instagram.com/s.a.n.t.h.o.s.h.k.u.m.a.r.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.a.n.t.h.o.s.h.k.u.m.a.r.s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uctrgqjxsgbcrh7no3s5fkbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctrgqjxsgbcrh7no3s5fkbg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/shield gaming tamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shield gaming tamil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadaiyappan-strange&show_icons=true&locale=en" alt="sadaiyappan-strange" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadaiyappan-strange&" alt="sadaiyappan-strange" /></p>
-
