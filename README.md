@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadaiyappan-strange" alt="sadaiyappan-strange" /></a> </p>
 
-- 🔭 I’m currently working on [Give Charity]
+- 🔭 I’m currently working on **Give Charity**
 
 - 🌱 I’m currently learning **Angular JS**
 
